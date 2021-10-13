@@ -1,12 +1,8 @@
-Nama  : Cindy Oktaviani Eka Prasasti
+Nama  : Sekar Mauliyah
 
-NIM   : E41200289
+NIM   : E41202489
 
-Prodi : Teknik Informatika
 
-Gol   : A
-
-TUGAS MINGGU 5 ( BUTTOM NAVIGATION )
 
 HASIL PEMBAHASAN :
 
